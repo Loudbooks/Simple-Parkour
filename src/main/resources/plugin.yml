@@ -1,0 +1,8 @@
+name: "BlockCountdown"
+main: "dev.loudbook.blockcountdown.BlockCountdown"
+version: "1.0"
+api-version: "1.20"
+commands:
+  blockcountdown:
+    description: "Starts a countdown for a block"
+    permission-message: "You don't have permission to use this command"
